@@ -189,6 +189,7 @@ approving
 approximate
 approximately
 April
+are
 area
 argue
 argument
@@ -1821,6 +1822,7 @@ irritating
 island
 issue
 it
+is
 item
 its
 itself
